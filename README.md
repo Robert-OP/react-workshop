@@ -23,4 +23,12 @@ $ yarn start
 - [Material-UI](https://material-ui.com/)
 - [ReactComponents repository](https://github.com/DHI/ReactComponents) - get familiar with already built DHI React components
 
+## Agenda
+
+- 13.00 – 13.10: React introduction – state, props, functional components, hooks
+- 13.10 – 13.30: 1st half coding round – tech check, clone repository & build simple component
+- 13.30 – 13.35: coffee break + I`ll be actively taking questions & helping people
+- 13.35 – 13.55: 2nd half coding round – DHI ReactComponents
+- 13.55 – 14.00: wrap-up & discuss if ( we should have a follow-up workshop && say goodbye ) !
+
 # Happy coding :}
